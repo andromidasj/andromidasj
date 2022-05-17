@@ -8,6 +8,9 @@
 - 📫 How to reach me: joshandromidas@gmail.com
 
 <br/>
+
+<hr style="height:0;border-top:0">
+<h3 align="center"> My Tech Stack </h3>
 <br/>
 
 <div align="center">
@@ -19,6 +22,13 @@
   <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white"/> 
   <img src="https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white" />
 </div>
+
+<!--
+### My Tech Stack
+<div>
+  <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" width="50px"/>
+</div>
+-->
 
 <!--
 **andromidasj/andromidasj** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
