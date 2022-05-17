@@ -1,4 +1,10 @@
-### Hi there 👋
+<h1 align="center"> Hi there 👋 I'm Josh! </h1>
+
+### I am a software engineer, musician, and movie lover. I'm currently in an active search for my next employment opportunity!
+
+- 🔭 I’m currently working on my solo MVP project: **[Trakt Movie List](https://github.com/andromidasj/trakt-movie-list)**
+- 💬 Ask me about my **home server**!
+- 📫 How to reach me: joshandromidas@gmail.com
 
 <!--
 **andromidasj/andromidasj** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
