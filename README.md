@@ -1,6 +1,6 @@
 <h1 align="center"> Hi there 👋 I'm Josh! </h1>
 
-### I am a software engineer, musician, and movie lover. I'm currently in an active search for my next employment opportunity!
+### I am a software engineer, musician, and movie lover.
 
 - 🔭 I’m currently working on my solo MVP project: **[Trakt Movie List](https://github.com/andromidasj/trakt-movie-list)**
 - 💬 Ask me about my **home server**!
