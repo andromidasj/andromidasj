@@ -2,7 +2,8 @@
 
 ### I am a software engineer, musician, and movie lover.
 
-- 🔭 I’m currently working on my solo MVP project: **[Trakt Movie List](https://github.com/andromidasj/trakt-movie-list)**
+- 💻 Consultant Engineer at Booz Allen Hamilton
+- 🔭 Check out my side project: **[Trakt Movie List](https://github.com/andromidasj/trakt-movie-list)**
 - 💬 Ask me about my **home server**!
 
 - 📫 How to reach me: joshandromidas@gmail.com
