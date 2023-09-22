@@ -11,6 +11,10 @@
 
 ---
 
+## Recent Projects
+- [801 Audio](https://801audio.com) ([repo](https://github.com/andromidasj/801-audio))
+- [Red's Pest Control](https://callreds.com)
+
 ## Skills
 _💚 = my personal favorites_
 
