@@ -14,6 +14,7 @@
 ## Recent Projects
 - [Red's Pest Control](https://callreds.com)
 - [801 Audio](https://801audio.com) ([repo](https://github.com/andromidasj/801-audio))
+- [Self-hosted Movie List (repo)](https://github.com/andromidasj/movie-list)
 
 ## Skills
 _💚 = my personal favorites_
