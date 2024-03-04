@@ -2,7 +2,7 @@
 
 ### I am a software engineer, musician, and movie lover.
 
-- 💻 Software Engineer at Booz Allen Hamilton
+- 💻 Software Engineer at [TakeHomes](https://takehomes.com)
 <!-- - 🔭 Check out my repos below! -->
 <!-- - 💬 Ask me about my **home server** -->
 - 📫 How to reach me:
