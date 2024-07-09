@@ -2,13 +2,13 @@
 
 ### I am a software engineer, musician, and movie lover.
 
-- 💻 Software Engineer at [TakeHomes](https://takehomes.com)
+<!-- - 💻 Software Engineer at [TakeHomes](https://takehomes.com) -->
 <!-- - 🔭 Check out my repos below! -->
 <!-- - 💬 Ask me about my **home server** -->
+- 🖥️ Portfolio: https://dev.joshandromidas.com
 - 📫 How to reach me:
   - joshandromidas@gmail.com
   - [LinkedIn](https://www.linkedin.com/in/josh-andromidas/)
-
 ---
 
 ## Recent Projects
@@ -16,14 +16,14 @@
 - [801 Audio](https://801audio.com) ([repo](https://github.com/andromidasj/801-audio))
 - [Self-hosted Movie List (repo)](https://github.com/andromidasj/movie-list)
 
-## Skills
+## Skills & Tools
 _💚 = my personal favorites_
 
 ### Languages
-- Javascript 
 - Typescript 💚
-- HTML
-- CSS
+- Javascript
+- NodeJS
+- HTML & CSS
 - Java
 
 ### Frameworks (& Libraries)
@@ -35,17 +35,19 @@ _💚 = my personal favorites_
 - GitHub 💚
 - Vercel 💚
 - Linux/ubuntu
-- Docker
-- Cloudflare 💚
+- Docker 💚
+- Cloudflare
 - AWS (EC2)
 
 ### Databases & DB Tools
-- Planetscale 💚
-- Prisma 💚
 - PostgreSQL
 - MongoDB
 - MySQL
 - SQLite
+- Planetscale 💚
+- Supabase
+- Prisma 💚
+- DrizzleORM
 
 ### More
 - TailwindCSS 💚
@@ -60,3 +62,4 @@ _💚 = my personal favorites_
 - Clerk (authentication)
 - React Email
 - Resend
+- Tailscale 💚
