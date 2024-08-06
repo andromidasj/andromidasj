@@ -40,13 +40,13 @@ _💚 = my personal favorites_
 - AWS (EC2)
 
 ### Databases & DB Tools
-- PostgreSQL
+- PostgreSQL 💚
 - MongoDB
 - MySQL
 - SQLite
-- Planetscale 💚
+- Planetscale
 - Supabase
-- Prisma 💚
+- Prisma
 - DrizzleORM
 
 ### More
@@ -59,7 +59,7 @@ _💚 = my personal favorites_
   - shadcn/ui 💚
   - Mantine
   - mui
-- Clerk (authentication)
+- Clerk (authentication) 💚
 - React Email
 - Resend
 - Tailscale 💚
