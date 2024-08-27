@@ -41,13 +41,14 @@ _💚 = my personal favorites_
 
 ### Databases & DB Tools
 - PostgreSQL 💚
-- MongoDB
 - MySQL
 - SQLite
-- Planetscale
+- MongoDB
+- [Neon](neon.tech)
 - Supabase
-- Prisma
-- DrizzleORM
+- Planetscale
+- Prisma 💚
+- Drizzle ORM
 
 ### More
 - TailwindCSS 💚
