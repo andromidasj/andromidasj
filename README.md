@@ -44,7 +44,7 @@ _💚 = my personal favorites_
 - MySQL
 - SQLite
 - MongoDB
-- [Neon](neon.tech)
+- [Neon](https://neon.tech)
 - Supabase
 - Planetscale
 - Prisma 💚
